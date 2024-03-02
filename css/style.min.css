@@ -46,6 +46,17 @@ body {
   }
 }
 
+@media only screen and (max-width: 300px) {
+  .container-t h1 {
+    text-align: center;
+      font-size: 25px;
+  }
+  .container-t h2 {
+    text-align: center;
+      font-size: 10px;
+  }
+}
+
 h1
 h2,
 h3,
